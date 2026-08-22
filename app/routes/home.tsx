@@ -9,7 +9,7 @@ import {createProject} from "../../lib/puter.action";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
+    { title: "ArchiVision" },
     { name: "description", content: "Welcome to React Router!" },
   ];
 }
